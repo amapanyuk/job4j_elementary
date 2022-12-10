@@ -20,8 +20,7 @@ public class Multiple {
 
         // Решение с циклом
         for (int i = 0; i < 10; i++) {
-            var j = i * 1;
-            System.out.println("1" + " * " + i + " = " + j);
+            System.out.println("1" + " * " + i + " = " + i);
         }
     }
 }
